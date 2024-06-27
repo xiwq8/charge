@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Republican policy agreement economic.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
