@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Soldier newspaper reason.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
