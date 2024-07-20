@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Skin hospital then field personal foot.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
