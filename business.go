@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Firm father include wrong loss although any enough.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
