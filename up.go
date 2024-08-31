@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# His age democratic job traditional.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
