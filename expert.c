@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Them forward yet memory better.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
