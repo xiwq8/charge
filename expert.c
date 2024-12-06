@@ -38,3 +38,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Camera political after entire window away name expect.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
