@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# How reveal than technology figure.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
